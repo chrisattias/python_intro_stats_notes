@@ -12,3 +12,4 @@
 - This GitHub repository folder can be downloaded by clicking on the "Code" button above, followed by the "Download Zip" button.
 - After downloading and extracting the zip file, the notes can most easily be viewed by opening the HTML file with a web browser.
 - The Jupyter notebook can also be run interactively in a web browser by following the following link:
+- https://mybinder.org/v2/gh/chrisattias/python_intro_stats_notes/HEAD
