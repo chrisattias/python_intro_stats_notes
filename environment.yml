@@ -1,0 +1,11 @@
+name: env_for_python_intro_stats_notes
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - statsmodels
+  - seaborn
+
+# We only need to specify Statsmodels and Seaborn
+# Statsmodels and Seaborn will import their own dependencies.
+# These libraries will in turn import their own dependencies.  So on and so forth.
